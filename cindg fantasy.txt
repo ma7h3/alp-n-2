@@ -1,0 +1,112 @@
+justificar-conteúdo: centro
+justifique-conteúdo=define e distribui o espaço.
+centro=centro
+justificar-conteúdo: fim
+end=seria o fim da página mas no caso seria o limite da página.
+
+centro
+
+início flexível centro
+
+extremidade flexível flex-start
+
+espaço ao redor flex-end
+
+espaço entre espaço-ao redor
+
+espaço uniformemente espaço-entre
+.wrapper { espaço uniformemente
+  exibição: flexível;
+  justificar-conteúdo: espaçar uniformemente;
+}
+
+.embrulho {
+  exibição: flexível;
+  justificar-conteúdo: flex-end;
+}
+
+.embrulho {
+  exibição: flexível;
+  justificar-conteúdo: centro;
+}
+aling-items: itens alinhados ou entidades em local desejado
+centro = centro
+flex-end= extremidade flexível.
+flex-direction=especifica a direção dos itens flexíceis
+coluna: deixa itens em forma de coluna
+row: deixa os itens em forma de linha
+row-reverse:linha de lado oposto.
+ordem: vai depender de que voce quer levar e para onde.
+alinhado-se=align-self= feito para alinhar o item que quiser
+flex-wrap: items flexiveis encapsulados com seus valores.
+wrap: cria uma curva com os valores.
+align-content: similar a align-items porem alinha items flexiveis
+centro = centro.
+
+justificar-conteúdo: centro;
+
+justificar-conteúdo: flex-end;
+
+justificar-conteúdo: espaço-entre;
+
+justificar-conteúdo: espaço ao redor;
+
+justificar-conteúdo: espaçar uniformemente;
+
+itens de alinhamento: centro;
+
+itens de alinhamento: extremidade flexível;
+flex-wrap:wrap
+itens de alinhamento: centro;
+justificar-conteúdo: centro;
+
+itens de alinhamento: extremidade flexível;
+justificar-conteúdo: espaço-entre;
+
+flex-direction: coluna;
+
+direção flexível: linha reversa;
+
+flex-direction: coluna;
+justificar-conteúdo: flex-end;
+
+
+direção flexível: linha reversa;
+justificar-conteúdo: centro;
+itens de alinhamento: centro;
+
+ordem: 2;
+
+alinhar-se: centralizar;
+
+auto-alinhamento: extremidade flexível;
+ordem: 1;
+
+flex-direção: coluna-reversa;
+justificar-conteúdo: flex-end;
+itens de alinhamento: centro;
+
+alinhar-se: centralizar;
+ordem: 2;
+
+flex-wrap: envoltório;
+ou
+fluxo flexível: envoltório;
+
+alinhar-conteúdo: centro;
+
+alinhar conteúdo: extremidade flexível
+justifique o conteúdo: centro
+
+
+flex-direção: coluna-reversa;
+justificar-conteúdo: espaço ao redor;
+itens de alinhamento: extremidade flexível;
+
+flex-direção: coluna-reversa;
+justificar-conteúdo: centro;
+flex-wrap: wrap-reverse;
+alinhar-conteúdo: centro;
+
+alinhar-se: centralizar;
+ordem: 3;
